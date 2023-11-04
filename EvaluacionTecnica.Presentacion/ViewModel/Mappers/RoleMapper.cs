@@ -10,11 +10,11 @@ namespace EvaluacionTecnica.Presentacion.ViewModel.Mappers
     {
         public RoleMapper()
         {
-            CreateMap<Role, RoleViewModelReponse>();
-            CreateMap<RoleViewModelReponse, Role>();
-            CreateMap<Role, RoleViewModelRequest>();
-            CreateMap<RoleViewModelRequest, Role>();
-            CreateMap<RoleViewModelRequest, Role>();
+            CreateMap<Role, RoleViewModelReponse>().ReverseMap();
+            
+            CreateMap<Role, RoleViewModelRequest>().ReverseMap();
+  
+            CreateMap<Role, RoleViewModelUpdateReq>().ReverseMap();
             
         }
     }

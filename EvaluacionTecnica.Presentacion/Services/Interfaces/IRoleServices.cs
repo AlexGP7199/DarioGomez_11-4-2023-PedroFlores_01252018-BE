@@ -13,7 +13,7 @@ namespace EvaluacionTecnica.Presentacion.Services.Interfaces
         Task<List<RoleViewModelReponse>> GetAll();
         Task<RoleViewModelReponse> getById(int id);
         Task<bool> Insert(RoleViewModelRequest model);
-        Task<bool> Update(RoleViewModelRequest model);
+        Task<bool> Update(RoleViewModelUpdateReq model);
         Task<bool> Delete(int id);
     }
 }

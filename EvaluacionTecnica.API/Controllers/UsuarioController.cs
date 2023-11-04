@@ -69,7 +69,7 @@ namespace EvaluacionTecnica.API.Controllers
         }
 
         [HttpPut("UpdateAnUser")]
-        public async Task<IActionResult> updateUser([FromBody] UsuarioViewModelRequest userDto)
+        public async Task<IActionResult> updateUser([FromBody] UserViewModelUpdateReq userDto)
         {
             try
             {

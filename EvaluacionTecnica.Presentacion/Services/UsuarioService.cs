@@ -52,7 +52,7 @@ namespace EvaluacionTecnica.Presentacion.Services
             return await _repository.LogIn(user);
         }
 
-        public async Task<bool> Update(UsuarioViewModelRequest model)
+        public async Task<bool> Update(UserViewModelUpdateReq model)
         {
             var data = _mapper.Map<Usuario>(model);
             return await _repository.Update(data);

@@ -17,6 +17,7 @@ namespace EvaluacionTecnica.Presentacion.ViewModel.Mappers
             CreateMap<Usuario, UsuarioViewModelResponse>().ReverseMap();
             CreateMap<Usuario, UsuarioViewModelRequest>().ReverseMap();
             CreateMap<Usuario, UserLogInViewModel>().ReverseMap();
+            CreateMap<Usuario, UserViewModelUpdateReq>().ReverseMap();
         }
     }
 }

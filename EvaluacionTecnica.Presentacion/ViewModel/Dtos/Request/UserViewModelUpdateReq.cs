@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace EvaluacionTecnica.Presentacion.ViewModel.Dtos.Request
 {
-    public class UsuarioViewModelRequest
+    public class UserViewModelUpdateReq
     {
-   
+        public int Id { get; set; }
 
         public int? RoleId { get; set; }
 

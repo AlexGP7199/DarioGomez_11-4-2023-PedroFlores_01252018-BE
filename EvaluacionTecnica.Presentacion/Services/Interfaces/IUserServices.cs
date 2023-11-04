@@ -14,7 +14,7 @@ namespace EvaluacionTecnica.Presentacion.Services.Interfaces
         Task<List<UsuarioViewModelResponse>> GetAll();
         Task<UsuarioViewModelResponse> getById(int id);
         Task<bool> Insert(UsuarioViewModelRequest model);
-        Task<bool> Update(UsuarioViewModelRequest model);
+        Task<bool> Update(UserViewModelUpdateReq model);
         Task<bool> Delete(int id);
         Task<bool> LogIn(UserLogInViewModel usuario);
     }

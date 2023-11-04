@@ -48,7 +48,7 @@ namespace EvaluacionTecnica.Presentacion.Services
             return await _repository.Insert(data);
         }
 
-        public async Task<bool> Update(RoleViewModelRequest model)
+        public async Task<bool> Update(RoleViewModelUpdateReq model)
         {
             var data = _mapper.Map<Role>(model);
             return await _repository.Update(data);

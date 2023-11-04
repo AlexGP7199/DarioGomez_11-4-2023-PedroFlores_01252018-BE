@@ -55,7 +55,7 @@ namespace EvaluacionTecnica.API.Controllers
         }
 
         [HttpPut("UpdateRole")]
-        public async Task<IActionResult> updateRole([FromBody] RoleViewModelRequest roleDto)
+        public async Task<IActionResult> updateRole([FromBody] RoleViewModelUpdateReq roleDto)
         {
             try
             {
