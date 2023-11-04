@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iZvMnTwsis+969YRtxkT79d4zqYa8CSvp9Nk18TcxvUqwGu8hAiSt+noT7kMsX1epv51AvzkC3jqAqM/N3WzTg==",
+  "dgSpecHash": "yBOGfVGKSl+S7MbeNo3R1MwBTSo8jRz8aK7nVDJcN3+esWk2AKZDsK1OvWdXp2+MRneu57j/SzlCRqpjHizqVg==",
   "success": true,
-  "projectFilePath": "E:\\Simetrica\\PruebaBESimetrica\\EvaluacionTecnica\\EvaluacionTecnica.Negocio\\EvaluacionTecnica.Negocio.csproj",
+  "projectFilePath": "E:\\Simetrica\\PruebaBESimetrica\\GitBE_FE\\SolicionBE_EvluacionTecnica\\DarioGomez_11-4-2023BE\\EvaluacionTecnica.Negocio\\EvaluacionTecnica.Negocio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eldar\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\eldar\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

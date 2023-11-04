@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Simetrica\\PruebaBESimetrica\\EvaluacionTecnica\\EvaluacionTecnica.Datos\\EvaluacionTecnica.Datos.csproj": {}
+    "E:\\Simetrica\\PruebaBESimetrica\\GitBE_FE\\SolicionBE_EvluacionTecnica\\DarioGomez_11-4-2023BE\\EvaluacionTecnica.Datos\\EvaluacionTecnica.Datos.csproj": {}
   },
   "projects": {
-    "E:\\Simetrica\\PruebaBESimetrica\\EvaluacionTecnica\\EvaluacionTecnica.Datos\\EvaluacionTecnica.Datos.csproj": {
+    "E:\\Simetrica\\PruebaBESimetrica\\GitBE_FE\\SolicionBE_EvluacionTecnica\\DarioGomez_11-4-2023BE\\EvaluacionTecnica.Datos\\EvaluacionTecnica.Datos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Simetrica\\PruebaBESimetrica\\EvaluacionTecnica\\EvaluacionTecnica.Datos\\EvaluacionTecnica.Datos.csproj",
+        "projectUniqueName": "E:\\Simetrica\\PruebaBESimetrica\\GitBE_FE\\SolicionBE_EvluacionTecnica\\DarioGomez_11-4-2023BE\\EvaluacionTecnica.Datos\\EvaluacionTecnica.Datos.csproj",
         "projectName": "EvaluacionTecnica.Datos",
-        "projectPath": "E:\\Simetrica\\PruebaBESimetrica\\EvaluacionTecnica\\EvaluacionTecnica.Datos\\EvaluacionTecnica.Datos.csproj",
+        "projectPath": "E:\\Simetrica\\PruebaBESimetrica\\GitBE_FE\\SolicionBE_EvluacionTecnica\\DarioGomez_11-4-2023BE\\EvaluacionTecnica.Datos\\EvaluacionTecnica.Datos.csproj",
         "packagesPath": "C:\\Users\\eldar\\.nuget\\packages\\",
-        "outputPath": "E:\\Simetrica\\PruebaBESimetrica\\EvaluacionTecnica\\EvaluacionTecnica.Datos\\obj\\",
+        "outputPath": "E:\\Simetrica\\PruebaBESimetrica\\GitBE_FE\\SolicionBE_EvluacionTecnica\\DarioGomez_11-4-2023BE\\EvaluacionTecnica.Datos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eldar\\AppData\\Roaming\\NuGet\\NuGet.Config",

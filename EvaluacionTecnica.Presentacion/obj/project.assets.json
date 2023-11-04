@@ -2723,11 +2723,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Simetrica\\PruebaBESimetrica\\EvaluacionTecnica\\EvaluacionTecnica.Presentacion\\EvaluacionTecnica.Presentacion.csproj",
+      "projectUniqueName": "E:\\Simetrica\\PruebaBESimetrica\\GitBE_FE\\SolicionBE_EvluacionTecnica\\DarioGomez_11-4-2023BE\\EvaluacionTecnica.Presentacion\\EvaluacionTecnica.Presentacion.csproj",
       "projectName": "EvaluacionTecnica.Presentacion",
-      "projectPath": "E:\\Simetrica\\PruebaBESimetrica\\EvaluacionTecnica\\EvaluacionTecnica.Presentacion\\EvaluacionTecnica.Presentacion.csproj",
+      "projectPath": "E:\\Simetrica\\PruebaBESimetrica\\GitBE_FE\\SolicionBE_EvluacionTecnica\\DarioGomez_11-4-2023BE\\EvaluacionTecnica.Presentacion\\EvaluacionTecnica.Presentacion.csproj",
       "packagesPath": "C:\\Users\\eldar\\.nuget\\packages\\",
-      "outputPath": "E:\\Simetrica\\PruebaBESimetrica\\EvaluacionTecnica\\EvaluacionTecnica.Presentacion\\obj\\",
+      "outputPath": "E:\\Simetrica\\PruebaBESimetrica\\GitBE_FE\\SolicionBE_EvluacionTecnica\\DarioGomez_11-4-2023BE\\EvaluacionTecnica.Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eldar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2744,11 +2744,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Simetrica\\PruebaBESimetrica\\EvaluacionTecnica\\EvaluacionTecnica.Datos\\EvaluacionTecnica.Datos.csproj": {
-              "projectPath": "E:\\Simetrica\\PruebaBESimetrica\\EvaluacionTecnica\\EvaluacionTecnica.Datos\\EvaluacionTecnica.Datos.csproj"
+            "E:\\Simetrica\\PruebaBESimetrica\\GitBE_FE\\SolicionBE_EvluacionTecnica\\DarioGomez_11-4-2023BE\\EvaluacionTecnica.Datos\\EvaluacionTecnica.Datos.csproj": {
+              "projectPath": "E:\\Simetrica\\PruebaBESimetrica\\GitBE_FE\\SolicionBE_EvluacionTecnica\\DarioGomez_11-4-2023BE\\EvaluacionTecnica.Datos\\EvaluacionTecnica.Datos.csproj"
             },
-            "E:\\Simetrica\\PruebaBESimetrica\\EvaluacionTecnica\\EvaluacionTecnica.Negocio\\EvaluacionTecnica.Negocio.csproj": {
-              "projectPath": "E:\\Simetrica\\PruebaBESimetrica\\EvaluacionTecnica\\EvaluacionTecnica.Negocio\\EvaluacionTecnica.Negocio.csproj"
+            "E:\\Simetrica\\PruebaBESimetrica\\GitBE_FE\\SolicionBE_EvluacionTecnica\\DarioGomez_11-4-2023BE\\EvaluacionTecnica.Negocio\\EvaluacionTecnica.Negocio.csproj": {
+              "projectPath": "E:\\Simetrica\\PruebaBESimetrica\\GitBE_FE\\SolicionBE_EvluacionTecnica\\DarioGomez_11-4-2023BE\\EvaluacionTecnica.Negocio\\EvaluacionTecnica.Negocio.csproj"
             }
           }
         }

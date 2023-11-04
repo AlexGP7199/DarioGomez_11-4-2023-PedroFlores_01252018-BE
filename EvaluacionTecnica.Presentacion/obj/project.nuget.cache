@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZR/VG+fDesjX3U/59PcFTLn46Jq29pvYNCovhNYn+ML+biNiL5tBd+EJVmHDyAeEXoLIp7fuOWB1NW+XmY6Biw==",
+  "dgSpecHash": "Plh3R7e7i/5Tuuvel5cJPaNVaNSCjeRvvqdZpM7qw5Nf3eTtG1sMvs7TCrrXNdZmxHu6SqWr9FwirAwWj905NA==",
   "success": true,
-  "projectFilePath": "E:\\Simetrica\\PruebaBESimetrica\\EvaluacionTecnica\\EvaluacionTecnica.Presentacion\\EvaluacionTecnica.Presentacion.csproj",
+  "projectFilePath": "E:\\Simetrica\\PruebaBESimetrica\\GitBE_FE\\SolicionBE_EvluacionTecnica\\DarioGomez_11-4-2023BE\\EvaluacionTecnica.Presentacion\\EvaluacionTecnica.Presentacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eldar\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\eldar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

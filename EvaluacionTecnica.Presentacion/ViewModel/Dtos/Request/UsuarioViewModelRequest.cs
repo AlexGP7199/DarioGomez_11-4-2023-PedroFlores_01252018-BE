@@ -8,8 +8,7 @@ namespace EvaluacionTecnica.Presentacion.ViewModel.Dtos.Request
 {
     public class UsuarioViewModelRequest
     {
-        public int Id { get; set; }
-
+     
         public int? RoleId { get; set; }
 
         public string? Nombre { get; set; }

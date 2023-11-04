@@ -10,6 +10,6 @@ namespace EvaluacionTecnica.Presentacion.ViewModel.Dtos.Request
     {
         public string? UsuarioNombre { get; set; }
 
-        public string? Contraseña { get; set; }
+        public string? pasword { get; set; }
     }
 }

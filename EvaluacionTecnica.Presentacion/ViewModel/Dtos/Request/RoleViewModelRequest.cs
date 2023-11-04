@@ -9,7 +9,7 @@ namespace EvaluacionTecnica.Presentacion.ViewModel.Dtos.Request
 {
     public class RoleViewModelRequest
     {
-        public int Id { get; set; }
+       
         public string? Nombre { get; set; }
     }
 }
