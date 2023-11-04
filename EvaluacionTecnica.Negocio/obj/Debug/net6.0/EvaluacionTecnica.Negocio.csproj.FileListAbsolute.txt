@@ -1,0 +1,15 @@
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\bin\Debug\net6.0\EvaluacionTecnica.Negocio.deps.json
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\bin\Debug\net6.0\EvaluacionTecnica.Negocio.dll
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\bin\Debug\net6.0\EvaluacionTecnica.Negocio.pdb
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\bin\Debug\net6.0\EvaluacionTecnica.Datos.dll
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\bin\Debug\net6.0\EvaluacionTecnica.Datos.pdb
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\obj\Debug\net6.0\EvaluacionTecnica.Negocio.csproj.AssemblyReference.cache
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\obj\Debug\net6.0\EvaluacionTecnica.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\obj\Debug\net6.0\EvaluacionTecnica.Negocio.AssemblyInfoInputs.cache
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\obj\Debug\net6.0\EvaluacionTecnica.Negocio.AssemblyInfo.cs
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\obj\Debug\net6.0\EvaluacionTecnica.Negocio.csproj.CoreCompileInputs.cache
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\obj\Debug\net6.0\EvaluacionTecnica.Negocio.csproj.CopyComplete
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\obj\Debug\net6.0\EvaluacionTecnica.Negocio.dll
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\obj\Debug\net6.0\refint\EvaluacionTecnica.Negocio.dll
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\obj\Debug\net6.0\EvaluacionTecnica.Negocio.pdb
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Negocio\obj\Debug\net6.0\ref\EvaluacionTecnica.Negocio.dll

@@ -1,0 +1,14 @@
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Datos\bin\Debug\net6.0\EvaluacionTecnica.Datos.deps.json
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Datos\bin\Debug\net6.0\EvaluacionTecnica.Datos.runtimeconfig.json
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Datos\bin\Debug\net6.0\EvaluacionTecnica.Datos.dll
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Datos\bin\Debug\net6.0\EvaluacionTecnica.Datos.pdb
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Datos\obj\Debug\net6.0\EvaluacionTecnica.Datos.csproj.AssemblyReference.cache
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Datos\obj\Debug\net6.0\EvaluacionTecnica.Datos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Datos\obj\Debug\net6.0\EvaluacionTecnica.Datos.AssemblyInfoInputs.cache
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Datos\obj\Debug\net6.0\EvaluacionTecnica.Datos.AssemblyInfo.cs
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Datos\obj\Debug\net6.0\EvaluacionTecnica.Datos.csproj.CoreCompileInputs.cache
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Datos\obj\Debug\net6.0\EvaluacionTecnica.Datos.dll
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Datos\obj\Debug\net6.0\refint\EvaluacionTecnica.Datos.dll
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Datos\obj\Debug\net6.0\EvaluacionTecnica.Datos.pdb
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Datos\obj\Debug\net6.0\EvaluacionTecnica.Datos.genruntimeconfig.cache
+E:\Simetrica\PruebaBESimetrica\EvaluacionTecnica\EvaluacionTecnica.Datos\obj\Debug\net6.0\ref\EvaluacionTecnica.Datos.dll
